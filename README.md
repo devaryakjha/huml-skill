@@ -5,7 +5,7 @@ An [Agent Skill](https://agentskills.io) that teaches AI coding agents about HUM
 ## Installation
 
 ```bash
-npx skills add arya/huml-skill
+bunx skills add https://github.com/devaryakjha/huml-skill
 ```
 
 ## What is HUML?
